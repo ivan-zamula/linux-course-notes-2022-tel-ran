@@ -1,0 +1,7 @@
+# Local editor files
+.idea/
+*.iml
+.vscode/
+~$*.docx
+.DS_Store
+._*
